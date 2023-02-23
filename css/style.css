@@ -645,4 +645,7 @@ footer .copyright{
     .hero .left img {
         width: 100%;
     }
+    .hero .right {
+        margin-top: 0;
+    }
 }
