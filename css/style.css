@@ -588,8 +588,8 @@ footer .copyright{
         background:linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0.9));
     }
     .hero .left{
-        margin-top:-5rem;
-        margin-right: -9rem;
+        margin-top:0;
+        margin-right: 0;
         padding-bottom:4rem;
     }
     .about-inner-wrap{
@@ -635,5 +635,16 @@ footer .copyright{
         position: absolute;
         top: 25px;
         right: 20px;
+    }
+    .hero {
+        padding-top: 70px;
+    }
+    .hero .right h6 { 
+        position: absolute;
+        top: 15px;
+        left: 15px;
+    }
+    .hero .left img {
+        width: 100%;
     }
 }
