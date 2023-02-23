@@ -631,4 +631,9 @@ footer .copyright{
     section.contact .input-wrap{
         grid-template-columns: repeat(1, 1fr);
     }
+    .hamberger {
+        position: absolute;
+        top: 25px;
+        right: 20px;
+    }
 }
