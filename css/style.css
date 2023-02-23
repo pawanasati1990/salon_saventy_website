@@ -581,9 +581,7 @@ footer .copyright{
     header{
         clip-path: polygon(0 0, 100% 0, 100% 100%, 69% 95%, 0 100%);
     }
-    .hero .right{
-        position: absolute;
-        top:260px;
+    .hero .right{ 
         padding:0 1rem;
         background:linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0.9));
     }
